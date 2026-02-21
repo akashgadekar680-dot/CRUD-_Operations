@@ -90,16 +90,20 @@ DELETE /api/items/{id}
 Add your screenshots inside a folder named `screenshots` and place image files there.
 
 ### Home Page
-![Home](screenshots/home.png)
+![Home]<img width="1363" height="669" alt="home png" src="https://github.com/user-attachments/assets/f11a8431-b5a9-491f-83b6-63c78d333662" />
+
 
 ### Add Record Page
-![Add](screenshots/add.png)
+![Add]<img width="1365" height="571" alt="add png" src="https://github.com/user-attachments/assets/c9fd23b5-5a4d-4690-928a-c8e1e61b1b3b" />
+
 
 ### Edit Record Page
-![Edit](screenshots/added.png)
+![Edit]<img width="1340" height="263" alt="added png" src="https://github.com/user-attachments/assets/871ed271-060d-4c69-88b3-f6bb5d70c3f6" />
+
 
 ### API Testing
-![API](screenshots/api-test.png)
+![API]<img width="1351" height="607" alt="api-test png" src="https://github.com/user-attachments/assets/88f777b1-4cc8-4a6b-be02-52502cec7068" />
+
 
 ---
 
